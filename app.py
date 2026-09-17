@@ -2,6 +2,7 @@ import streamlit as st
 
 # Tiêu đề ứng dụng
 st.title("💰 Ứng dụng tính lãi tiết kiệm ngân hàng")
+st.title("💰 Ứng dụng tính lãi tiết kiệm")
 
 st.write("Nhập thông tin tiền gửi để tính số tiền nhận được cuối kỳ.")
 
